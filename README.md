@@ -39,3 +39,9 @@ Here are some ideas to get you started:
   <code><img height="50" src="https://github.com/github/explore/blob/main/topics/html/html.png"/></code>
   <code><img height="50" src="https://github.com/github/explore/blob/main/topics/css/css.png"/></code>
 </p>
+
+<br/>
+
+<p align="center">
+  <a>-- Wish you a good day! --</a>
+</p>

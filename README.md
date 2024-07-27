@@ -13,10 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<img align="right" width="60" src="logo.png"/>
 <img src="https://komarev.com/ghpvc/?username=asakiyuki&color=1A2130&style=for-the-badge&label=PROFILE+VIEWS&abbreviated=true"/>
 
-<h1>Introduction</h1>
+<h1 align="left">Introduction</h1>
 - Hi 👋, I am Asaki Yuki (Real name is Trọng), and I am a programmer living in Vietnam.
+
 
 <h3 aligh="left">📃 Stats</h3>
 <div>

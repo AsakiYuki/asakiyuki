@@ -34,8 +34,8 @@ Here are some ideas to get you started:
   <code><img height="50" src="https://github.com/github/explore/blob/main/topics/typescript/typescript.png"/></code>
   <code><img height="50" src="https://github.com/github/explore/blob/main/topics/javascript/javascript.png"/></code>
   <code><img height="50" src="https://github.com/github/explore/blob/main/topics/nextjs/nextjs.png"/></code>
+  <code><img height="50" src="https://github.com/github/explore/blob/main/topics/react/react.png"/></code>
   <code><img height="50" src="https://github.com/github/explore/blob/main/topics/nodejs/nodejs.png"/></code>
   <code><img height="50" src="https://github.com/github/explore/blob/main/topics/html/html.png"/></code>
   <code><img height="50" src="https://github.com/github/explore/blob/main/topics/css/css.png"/></code>
-  <code><img height="50" src="https://github.com/github/explore/blob/main/topics/react/react.png"/></code>
 </p>

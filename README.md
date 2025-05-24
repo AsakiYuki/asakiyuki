@@ -20,19 +20,3 @@ Here are some ideas to get you started:
 
 <h1 align="left">Introduction</h1>
 - Hi 👋, I am Asaki Yuki (Real name is Trọng), and I am a programmer living in Vietnam.
-
-
-<h3 aligh="left">📃 Stats</h3>
-<div>
-  
-  [![trophy](https://github-profile-trophy.vercel.app/?username=asakiyuki&no-bg=true&theme=onedark)](#)
-  [![Asaki Yuki github stats](https://github-readme-stats.vercel.app/api?username=asakiyuki&theme=tokyonight)](#)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asakiyuki&theme=tokyonight&layout=compact)](#)
-  
-</div>
-
-<br/>
-
-<p align="center">
-  <a>-- Wish you a good day! --</a>
-</p>
